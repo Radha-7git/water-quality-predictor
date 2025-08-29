@@ -50,7 +50,7 @@ You can share this link in your GitHub README as a clickable demo for others to 
 ```
 ├── code.py               # Main Streamlit app
 ├── requirements.txt      # Python dependencies
-├── data.csv              # Example data file (add your own)
+├── Watera.csv              # Example data file (add your own)
 ├── README.md             # Project documentation
 ```
 
@@ -61,10 +61,6 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 ## License
 
 This project is licensed under the MIT License.
-
-## Contact
-
-For questions or feedback, please contact [YOUR EMAIL].
 
 # Requirements for Water Quality Predictor
 # Install with: pip install -r requirements.txt
