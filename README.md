@@ -13,7 +13,9 @@ A machine learning-powered Streamlit web application for predicting and visualiz
 
 ## Demo
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR-STREAMLIT-APP-URL)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://water-quality-predictor-esxx6mbwmkgs6esbe8hv3i.streamlit.app/)
+
+You can share this link in your GitHub README as a clickable demo for others to try your project. If you need help updating your README or want to add more features, let me know!)
 
 ## Getting Started
 
